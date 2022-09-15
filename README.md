@@ -1,7 +1,8 @@
 # Enterprise-level ReactJS+Typescript+Redux Boilerplate Dashboard App
 ---
 This app aims to be a sort of boilerplate for my enterprise-level future projects.
-It implements: best practices, patterns and design; latest technologies and optimal scalable modular architecture. 
+It implements: best practices, patterns and design; latest technologies and optimal scalable modular architecture.
+It has been deployed on Netlify and packaged in a hub.docker.com repository.
 
 * ***Live Demo***
 
@@ -82,6 +83,8 @@ I removed login from all routes that needed it so you can test the live applicat
 - Data Visualization: **React Apexcharts**
 - File Upload: **React Dropzone**
 - Event Calendar: **Fullcalendar**
+- Deployment: **Netlify + my-json-server.typicode.com**
+- DevOps: **Docker**
 
 ## Development Packages and Tools used:
 - Linting: **Eslint** (also auto-fix)

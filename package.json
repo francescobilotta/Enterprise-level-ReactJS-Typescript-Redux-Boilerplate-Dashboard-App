@@ -1,6 +1,6 @@
 {
-  "name": "first-basic-enterprise-react-boilerplate",
-  "version": "0.1.0",
+  "name": "enterprise-level-boilerplate-dashboard-app",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "11.10.4",
