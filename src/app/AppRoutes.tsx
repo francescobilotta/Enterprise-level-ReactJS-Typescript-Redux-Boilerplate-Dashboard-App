@@ -5,7 +5,6 @@ import { /* Navigate, */ Route, Routes } from "react-router-dom";
 import { About, Calendar, Dashboard, Home, Login, NotFound } from "../pages";
 import Account from "../pages/Account";
 import Pricing from "../pages/Pricing";
-import { ProtectedRoute } from "../ui-kit/components";
 import {
   AboutDefaultContent,
   DashboardDefaultContent,
@@ -47,7 +46,7 @@ function AppRoutes() {
           </About>
         }
       />
-      <Route element={<ProtectedRoute />} path="/dashboard">
+      <Route path="/dashboard">
         <Route
           path=""
           element={

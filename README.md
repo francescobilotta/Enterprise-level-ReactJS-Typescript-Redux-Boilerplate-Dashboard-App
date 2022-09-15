@@ -65,6 +65,10 @@ It implements: best practices, patterns and design; latest technologies and opti
     </tr>
 </table>
 
+## Disclosure
+my-json-server.typicode.com, a free service that acts like JSON-Server doesn't provide authentication, and for that reason JWT authentication can't be used.
+I removed login from all routes that needed it so you can test the live application.
+        
 ## Technology and Packages used:
 - Framework/Library: **React v18 with create-react-app** and **Typescript v4.8** (latest versions nowadays)
 - Routes Management: **React Router Dom v6** (latest nowadays)
