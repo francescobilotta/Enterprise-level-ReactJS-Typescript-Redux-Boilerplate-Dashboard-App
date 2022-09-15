@@ -1,0 +1,385 @@
+{
+  "users": [
+    {
+      "id": "7fguyfte5",
+      "email": "demo@acme.io",
+      "password": "$2a$10$Pmk32D/fgkig8pU.r1rGrOpYYJSrnqqpLO6dRdo88iYxxIsl1sstC",
+      "name": "Mok Kuh",
+      "mobile": "+34782364823",
+      "policy": true
+    },
+    {
+      "email": "fra@gjeiml.com",
+      "password": "$2a$10$Tej3WiU1nOoGYmmCYwNdu.JG1MNGr5222pRnKuvYP7m9Krt68/Zzy",
+      "mobile": "+392344343243",
+      "name": "fra",
+      "policy": true,
+      "id": "SJM-nYm"
+    }
+  ],
+  "users-db": [
+    {
+      "id": "7fguyfte5",
+      "email": "demo@acme.io",
+      "name": "Mok Kuh JR",
+      "password": "$2a$10$.vEI32nHFyG15ZACR7q/J.DNT/7iFC1Gfi2fFPMsG09LCPtwk0q/.",
+      "avatar": "/images/avatar/avatar_6.png",
+      "canHire": true,
+      "country": {
+        "text": "United States",
+        "value": "US"
+      },
+      "city": "NY",
+      "isPublic": true,
+      "phone": "+40 777666555",
+      "role": "admin",
+      "state": "New York",
+      "tier": "Premium",
+      "subscription": {
+        "name": "Premium",
+        "price": 29,
+        "currency": "$",
+        "proposalsLeft": 12,
+        "templatesLeft": 5,
+        "invitesLeft": 24,
+        "adsLeft": 10,
+        "hasAnalytics": true,
+        "hasEmailAlerts": true
+      }
+    }
+  ],
+  "sales": [
+    {
+      "id": "sgacus86fov",
+      "name": "This week",
+      "data": [
+        30,
+        40,
+        25,
+        50,
+        49,
+        21,
+        70,
+        51
+      ]
+    },
+    {
+      "id": "saftyaf56",
+      "name": "Last week",
+      "data": [
+        23,
+        12,
+        54,
+        61,
+        32,
+        56,
+        81,
+        19
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "5ece2c1be7996hd1549d94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "id": "5ece2c123fadg30cbbff8d060",
+      "attributes": [
+        "Variety of styles"
+      ],
+      "category": "jewelry",
+      "currency": "$",
+      "createdAt": 345354345,
+      "image": null,
+      "inventoryType": "in_stock",
+      "isAvailable": true,
+      "isShippable": false,
+      "name": "Layering Bracelets Collection",
+      "price": 155,
+      "quantity": 48,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 5
+    },
+    {
+      "id": "5ece2c1be79r96d1549d94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "id": "5ece2c123fafd30cbbff8d060",
+      "attributes": [
+        "Variety of styles"
+      ],
+      "category": "jewelry",
+      "currency": "$",
+      "createdAt": 345354345,
+      "image": null,
+      "inventoryType": "in_stock",
+      "isAvailable": true,
+      "isShippable": false,
+      "name": "Layering Bracelets Collection",
+      "price": 155,
+      "quantity": 48,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 5
+    },
+    {
+      "id": "5erce2c1be7996d1549d94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "id": "5ece2c123fad30cbbff8d060r",
+      "attributes": [
+        "Variety of styles"
+      ],
+      "category": "jewelry",
+      "currency": "$",
+      "createdAt": 345354345,
+      "image": null,
+      "inventoryType": "in_stock",
+      "isAvailable": true,
+      "isShippable": false,
+      "name": "Layering Bracelets Collection",
+      "price": 155,
+      "quantity": 48,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 5
+    },
+    {
+      "id": "5ece2c1be7996d1549dr94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "id": "5ece2c123fad30cbbff8rd060",
+      "attributes": [
+        "Variety of styles"
+      ],
+      "category": "jewelry",
+      "currency": "$",
+      "createdAt": 345354345,
+      "image": null,
+      "inventoryType": "in_stock",
+      "isAvailable": true,
+      "isShippable": false,
+      "name": "Layering Bracelets Collection",
+      "price": 155,
+      "quantity": 48,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 5
+    },
+    {
+      "id": "5ece2c1be7996rd1549d94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "id": "5ece2c1r23fad30cbbff8d060",
+      "attributes": [
+        "Variety of styles"
+      ],
+      "category": "jewelry",
+      "currency": "$",
+      "createdAt": 345354345,
+      "image": null,
+      "inventoryType": "in_stock",
+      "isAvailable": true,
+      "isShippable": false,
+      "name": "Layering Bracelets Collection",
+      "price": 155,
+      "quantity": 48,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 5
+    },
+    {
+      "id": "5ece2c1be7r996d1549d94e34",
+      "attributes": [
+        "Polyester and Spandex"
+      ],
+      "category": "blouse",
+      "currency": "$",
+      "createdAt": "2021-01-01T12:00:27.87+00:20",
+      "image": null,
+      "inventoryType": "limited",
+      "isAvailable": false,
+      "isShippable": true,
+      "name": "Flared Sleeve Floral Blouse",
+      "price": 17.99,
+      "quantity": 5,
+      "updatedAt": "2021-01-01T12:00:27.87+00:20",
+      "variants": 1
+    },
+    {
+      "attributes": [],
+      "category": "",
+      "createdAt": "",
+      "currency": "",
+      "id": "uks10rpb",
+      "image": "",
+      "inventoryType": "in_stock",
+      "isAvailable": false,
+      "isShippable": false,
+      "name": "ciao",
+      "quantity": 0,
+      "updatedAt": "",
+      "variants": 0,
+      "description": "",
+      "images": [],
+      "includesTaxes": false,
+      "isTaxable": false,
+      "productCode": "",
+      "productSku": "",
+      "salePrice": 1,
+      "price": 2
+    }
+  ],
+  "events": [
+    {
+      "id": "5e8882e440f6322fa399eeb8",
+      "allDay": false,
+      "color": "green",
+      "description": "Inform about new contract",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "Call Samantha"
+    },
+    {
+      "id": "5e8882eb5f8ec686220ff131",
+      "allDay": false,
+      "color": null,
+      "description": "Discuss about new partnership",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "Meet with IBM"
+    },
+    {
+      "id": "5e8882f1f0c9216396e05a9b",
+      "allDay": false,
+      "color": null,
+      "description": "Prepare docs",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "SCRUM Planning"
+    },
+    {
+      "id": "5e8882f6daf81eccfa40dee2",
+      "allDay": true,
+      "color": null,
+      "description": "Meet with team to discuss",
+      "end": "2020-12-12T12:30:00-05:00",
+      "start": "2020-11-11T12:00:27.87+00:20",
+      "title": "Begin SEM"
+    },
+    {
+      "id": "5e8882fcd525e076b3c1542c",
+      "allDay": false,
+      "color": "green",
+      "description": "Sorry, John!",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "Fire John"
+    },
+    {
+      "id": "5e888302e62149e4b49aa609",
+      "allDay": false,
+      "color": null,
+      "description": "Discuss about the new project",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "Call Alex"
+    },
+    {
+      "id": "5e88830672d089c53c46ece3",
+      "allDay": false,
+      "color": "green",
+      "description": "Get a new quote for the payment processor",
+      "end": "2021-01-01T12:00:27.87+00:20",
+      "start": "2021-01-01T12:00:27.87+00:20",
+      "title": "Visit Samantha"
+    },
+    {
+      "allDay": false,
+      "description": ":)",
+      "end": "2022-09-12T11:27:07.232Z",
+      "id": "eE41Xti",
+      "start": "2022-09-12T10:57:07.232Z",
+      "title": "Becoming a react developer"
+    },
+    {
+      "allDay": false,
+      "description": "",
+      "end": "2022-09-01T07:00:00.000Z",
+      "id": "QDGXycN",
+      "start": "2022-08-30T07:00:00.000Z",
+      "title": "hey"
+    }
+  ]
+}

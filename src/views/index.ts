@@ -1,0 +1,10 @@
+export { default as AboutDefaultContent } from "./AboutDefaultContent";
+export { default as AccountDefaultContent } from "./AccountDefaultContent";
+export { default as CalendarDefaultContent } from "./CalendarDefaultContent";
+export { default as DashboardDefaultContent } from "./DashboardDefaultContent";
+export { default as HomeDefaultContent } from "./HomeDefaultContent";
+export { default as LoginDefaultContent } from "./LoginDefaultContent";
+export { default as NotFoundDefaultContent } from "./NotFoundDefaultContent";
+export { default as PricingDefaultContent } from "./PricingDefaultContent";
+export { default as ProductCreateView } from "./ProductCreateView";
+export { default as ProductListView } from "./ProductListView";

@@ -1,0 +1,13 @@
+export { changePasswordAxios } from "./changePasswordAxios";
+export { deleteEventAxios } from "./deleteEventAxios";
+export { deleteProductAxios } from "./deleteProductAxios";
+export { getEventsAxios } from "./getEventsAxios";
+export { getProductAxios } from "./getProductAxios";
+export { getSalesAxios } from "./getSalesAxios";
+export { getUserByIdFromDbAxios } from "./getUserByIdFromDbAxios";
+export { loginAxios } from "./loginAxios";
+export { postEventsAxios } from "./postEventsAxios";
+export { postProductAxios } from "./postProductAxios";
+export { putEventsAxios } from "./putEventsAxios";
+export { putUserFromDbAxios } from "./putUserFromDbAxios";
+export { registerAxios } from "./registerAxios";
