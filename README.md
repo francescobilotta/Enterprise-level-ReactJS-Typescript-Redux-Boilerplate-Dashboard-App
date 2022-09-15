@@ -1,10 +1,10 @@
 # Enterprise-level ReactJS+Typescript+Redux Boilerplate Dashboard App
 ---
-This app aims to be a sort of boilerplate for my enterprise-level future projects.
-It implements: best practices, patterns and design; latest technologies and optimal scalable modular architecture.
-It has been deployed on Netlify and packaged in a hub.docker.com repository.
+This app aims to be a sort of boilerplate for my enterprise-level future projects.</br>
+It implements: best practices, patterns and design; latest technologies and optimal scalable modular architecture.</br>
+It has been deployed on Netlify and packaged in a [hub.docker.com](https://hub.docker.com/r/francescobilotta/enterprise-level-boilerplate-dashboard-app) repository.
 
-* ***Live Demo***
+* ***[Live Demo](https://brilliant-praline-4a8743.netlify.app/)***
 
 ## Screenshots of Features
 <table>
